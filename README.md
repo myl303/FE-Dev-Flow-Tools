@@ -11,6 +11,8 @@
 showdoc
 
 # 项目开发：
+代码管理：svn、git
+
 
 开发软件：
 vscode
@@ -19,6 +21,8 @@ vscode
 内网测试
 外网内测
 预发测试
+
+代码管理
 
 网络调试：
 filddler
