@@ -20,10 +20,13 @@ vscode
 外网内测
 预发测试
 
-# 项目部署：
-上线
-
-
 网络调试：
 filddler
 mobile debug
+
+# 项目部署：
+上线
+线上监控；
+FunDebug
+
+
